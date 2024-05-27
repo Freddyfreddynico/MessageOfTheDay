@@ -1,2 +1,2 @@
 # MessageOfTheDay
-MessageOfTheDayRecRoom2016
+This is for rec room 2016
